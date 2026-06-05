@@ -5,4 +5,4 @@ frontend/package-lock.json
 .DS_Store
 media/.DS_Store
 media/UI_Design/.DS_Store
-.DS_Store
+**/.DS_Stores
